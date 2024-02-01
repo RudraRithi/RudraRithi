@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rudramuni S
-- 👀 I’m interested in Java Backend Development
+- 👀 I’m interested in Java Backend Development- java8, Spring Boot, REST APi, Mysql, PostMan, HTML, CSS, Javascript.
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking for an oppertunity to work
 - 📫 How to reach me @maid- rudrarithi07@gmail.com
