@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rudramuni S
-- 👀 I’m interested in Java Backend Development- java8, Spring Boot, REST APi, Mysql, PostMan, HTML, CSS, Javascript.
-- 🌱 I’m currently learning Microservices
-- 💞️ I’m looking for an oppertunity to work
-- 📫 How to reach me @maid- rudrarithi07@gmail.com
+- 👀 I’m interested in Java Backend Development- java8, Spring Boot, REST APi,Microservices, Mysql, PostMan, HTML, CSS, Javascript, React Js.
+- 🌱 I’m currently learning Docker and K8s.
+- 💞️ I’m looking for an oppertunity to Showcase my Technical Skills
+- 📫 How to reach me @maid- rudrarithi08@gmail.com
 -                     ph no- +91 7259604327
 
 
